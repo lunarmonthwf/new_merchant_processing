@@ -2322,3 +2322,28 @@
   width:85px;
   white-space:nowrap;
 }
+#u88_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:2px;
+}
+#u88 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:2151px;
+  width:200px;
+  height:1px;
+}
+#u88_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
